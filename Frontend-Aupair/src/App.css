@@ -1,0 +1,39 @@
+h1{
+  margin-top: 50px;
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  margin-bottom: 0;
+}
+
+p{
+  text-align: center;
+  margin-top: 0;
+  font-size: 12px;
+  font-style: italic;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+  background-image: url("https://image.freepik.com/free-vector/orange-background-watercolor-texture_1035-6648.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.footer{
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  background-color: white;
+  position: fixed;
+  font-size: 13px;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.Paragraph{
+  font-size: 22px;
+  color: orange
+}
+
